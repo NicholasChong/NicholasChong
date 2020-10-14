@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 大家好！
 
 ![](http://antzuhl.cn:4000/get/@NicholasChong.readme)
