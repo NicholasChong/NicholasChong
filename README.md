@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 
 
 大家好！
+
+![](http://antzuhl.cn:4000/get/@NicholasChong.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=NicholasChong&show_icons=true&count_private=true&hide=prs&theme=dark)
